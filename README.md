@@ -2,7 +2,7 @@
 
 # NAME
 
-WWW::You-reDoingItWrong - Why say someone is doing it wrong when you can SHOW it?
+WWW::You'reDoingItWrong - Why say someone is doing it wrong when you can SHOW it?
 
 # SYNOPSIS
 
