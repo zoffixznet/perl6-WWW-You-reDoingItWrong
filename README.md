@@ -47,7 +47,7 @@ https://github.com/zoffixznet/perl6-WWW-You-reDoingItWrong/issues
 
 # AUTHOR
 
-http://zoffix.com/
+Zoffix Znet (http://zoffix.com/)
 
 # LICENSE
 
